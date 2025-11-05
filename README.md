@@ -14,13 +14,15 @@ Python’un **Flask** framework’ü kullanılarak geliştirilmiştir.
 ---
 
 ## 📁 Proje Yapısı
+
+```text
 burak_cv_website/
 │
-├── app.py # Flask uygulaması
-├── requirements.txt # Gerekli bağımlılıklar
+├── app.py               # Flask uygulaması
+├── requirements.txt     # Gerekli bağımlılıklar
 │
 ├── templates/
-│ └── index.html # Ana HTML dosyası
+│   └── index.html       # Ana HTML dosyası
 │
 └── static/
-└── styles.css # Stil dosyası
+    └── styles.css       # Stil dosyası
